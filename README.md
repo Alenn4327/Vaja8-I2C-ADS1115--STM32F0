@@ -10,3 +10,6 @@
 
 <h4>4. V zavihku Configuration za I2C spremenite hitrost na 400 kHz. Kaj ste izbrali?</h4>
 <p>FAST MODE.</p>
+
+<h4>Komentar</h4>
+<p>Pri vaji sva imela težavo v programu STM Studio, ki nama ni hotel prikazovati vrednosti.</p>
